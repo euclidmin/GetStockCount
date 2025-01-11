@@ -1,0 +1,2 @@
+# GetStockCount
+plto API 
